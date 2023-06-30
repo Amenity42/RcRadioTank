@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "programmer": "arduinoasispatmega32u4",
+    "port": "COM11",
+    "sketch": "RcRadioTank.ino"
+}
